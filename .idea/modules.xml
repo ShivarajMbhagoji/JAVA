@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaDaa.iml" filepath="$PROJECT_DIR$/JavaDaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDSA.iml" filepath="$PROJECT_DIR$/JavaDSA.iml" />
     </modules>
   </component>
 </project>

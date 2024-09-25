@@ -14,7 +14,7 @@ public class WarshallsAlgorithm {
                 graph[i][j] = scanner.nextInt();
             }
         }
-// Find the transitive closure using Warshall's Algorithm
+
         for (int k = 0; k < vertices; k++) {
             for (int i = 0; i < vertices; i++) {
                 for (int j = 0; j < vertices; j++) {
@@ -22,7 +22,7 @@ public class WarshallsAlgorithm {
                 }
             }
         }
-// Display the transitive closure
+
         System.out.println("Transitive Closure:");
         for (int i = 0; i < vertices; i++) {
             for (int j = 0; j < vertices; j++) {
